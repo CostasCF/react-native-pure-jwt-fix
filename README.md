@@ -1,3 +1,5 @@
+Fixing android compileSdkVersion problem when upgrading to latest react native version.
+
 # react-native-pure-jwt
 
 A React Native library that uses native modules to work with JWTs!
